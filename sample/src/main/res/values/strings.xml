@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Alexoro-fluidhorizontallayout</string>
+
+    <string name="title_fluid">Fluid Layout</string>
+    <string name="title_ll">Linear Layout</string>
+    <string name="text_short">Short text</string>
+    <string name="text_long">Long text Long text Long text Long text Long text Long text Long text Long text</string>
+
+</resources>
